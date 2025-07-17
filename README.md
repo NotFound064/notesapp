@@ -1,4 +1,4 @@
-#NotesApp - PHP Notes Application with Authentication
+# NotesApp - PHP Notes Application with Authentication
 
 This project was developed as part of the Laracasts *PHP for Beginners* course, aiming to consolidate fundamental knowledge of the PHP language and best backend development practices.
 
